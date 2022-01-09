@@ -1,0 +1,158 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+}
+
+.header {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  background: #fff;
+}
+
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 0.25rem;
+}
+
+h2 {
+  font-size: 0.875rem;
+  color: #8AA8BC;
+}
+
+.nav__links {
+  display: flex;
+}
+
+.nav__links a {
+  padding: 1rem 0;
+  color: #194264;
+  font-weight: 600;
+  transition: .3s ease-in-out;
+}
+
+nav a:hover {
+  color: #8AA8BC;
+}
+
+.nav__links li:not(:first-child) {
+  margin-left: 1rem;
+}
+
+.nav__links a.ativo {
+  color: #8AA8BC;
+}
+
+main {
+  min-height: calc(100vh - 3.75rem);
+  display: grid;
+  gap: 2.5rem;
+  text-align: center;
+  place-content: center;
+}
+
+h1 {
+  font-size: 2rem;
+  background: #222;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: #fff;
+}
+
+.btn {
+  text-transform: uppercase;
+  padding: 1rem;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  background: transparent;
+  border: 2px solid #222;
+  border-radius: 0.25rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  max-width: max-content;
+  letter-spacing: 0.1rem;
+  margin: 0 auto;
+  transition: .3s ease-in-out;
+}
+
+.btn:hover {
+  color: #fff;
+  background: #222;
+}
+
+.cores__info {
+  background: #fff;
+  border-radius: 0.25rem;
+  padding-block: 1.25rem;
+  border: 2px solid #222;
+}
+
+.cores__info h4 {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  display: grid;
+  position: relative;
+  letter-spacing: 0.1rem;
+}
+
+.cores__info h4::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: calc(100% - 2.5rem);
+  height: 2px;
+  background: #e5e5e5;
+  bottom: 0;
+  bottom: -5px;
+  align-self: center;
+  justify-self: center;
+}
+
+.cores__info p {
+  padding: 1.25rem;
+}
+
+.cores__info a {
+  display: inline-block;
+  padding: 0.625rem 0;
+  text-transform: capitalize;
+  color: #222;
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+
+.cores__info a:hover {
+  color: #194264;
+}
+
+.significados {
+  display: none;
+}
+
+.significados.ativo {
+  display: block;
+}
