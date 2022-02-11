@@ -5,3 +5,8 @@ Projetos criados durante as aulas do curso '[Build 15 JavaScript Projects](https
 - [x] [Color Flipper](https://luciana-santos.github.io/color-flipper/) (live)
 - [x] [Simple Counter](https://github.com/Luciana-Santos/vanilla-javascript-projects/tree/main/simple-counter)
 - [x] [Card Slider](https://luciana-santos.github.io/card-slider/) (live)
+- [x] [Responsive Navbar](https://codepen.io/luciana-santos/details/WNZKyqO) (live)
+- [x] [Responsive Sidebar](https://codepen.io/luciana-santos/details/bGozGYG) (live)
+- [x] [Modal](https://codepen.io/luciana-santos/details/jOGdqvR) (live) 
+- [x] [Accordion](https://codepen.io/luciana-santos/details/PoJVdJZ) (live)
+- [x] [Filtragem de Livros](https://luciana-santos.github.io/filtragem-de-livros/) (live)
