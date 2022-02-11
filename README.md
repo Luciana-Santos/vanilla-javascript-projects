@@ -24,7 +24,7 @@ Projetos criados durante as aulas do curso '[Build 15 JavaScript Projects](https
   
 - [x] [Responsive Sidebar](https://codepen.io/luciana-santos/details/bGozGYG) (live)
   
-  ![Responsive Sidebar](https://i.postimg.cc/xjbLWpT4/Captura-de-Tela-2.png)
+  ![Responsive Sidebar](https://i.postimg.cc/W3xgdgS8/Captura-de-Tela-3.png)
   
   
 - [x] [Modal](https://codepen.io/luciana-santos/details/jOGdqvR) (live) 
