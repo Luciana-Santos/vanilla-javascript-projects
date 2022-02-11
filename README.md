@@ -4,7 +4,7 @@ Projetos criados durante as aulas do curso '[Build 15 JavaScript Projects](https
 
 - [x] [Color Flipper](https://luciana-santos.github.io/color-flipper/) (live)
  
-![Color Flipper](https://i.postimg.cc/GmzDkZqH/color-flipper.jpg)
+  ![Color Flipper](https://i.postimg.cc/GmzDkZqH/color-flipper.jpg)
   
   
 - [x] [Simple Counter](https://codepen.io/luciana-santos/pen/BamZBYr)
