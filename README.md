@@ -10,3 +10,4 @@ Projetos criados durante as aulas do curso '[Build 15 JavaScript Projects](https
 - [x] [Modal](https://codepen.io/luciana-santos/details/jOGdqvR) (live) 
 - [x] [Accordion](https://codepen.io/luciana-santos/details/PoJVdJZ) (live)
 - [x] [Filtragem de Livros](https://luciana-santos.github.io/filtragem-de-livros/) (live)
+- [x] [Video Controler](https://codepen.io/luciana-santos/pen/LYOLzzp) (live)
